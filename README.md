@@ -1,6 +1,6 @@
-### Always learning  🌱
+### Hi there, I'm Andreas :wave:
 
-
+I'm a software developer from Germany, currently based in Brussels.
 
 <!--
 **AndiFly/AndiFly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
